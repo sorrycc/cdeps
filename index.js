@@ -18,7 +18,7 @@ module.exports = function(entry) {
  * @returns {Array}
  */
 function parse(entry) {
-  debug('parse()', entry)
+  debug('parse()', entry);
   var deps = [];
 
   var f = getFile(entry);
