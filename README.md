@@ -5,7 +5,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/sorrycc/cdeps.svg?style=flat)](https://coveralls.io/r/sorrycc/cdeps)
 [![NPM downloads](http://img.shields.io/npm/dm/cdeps.svg?style=flat)](https://npmjs.org/package/cdeps)
 
-Get module/project dependences recursively by entry file, support js and css.
+Get absolute dependences recursively by entry file, support js and css.
 
 ---
 

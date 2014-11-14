@@ -1,7 +1,7 @@
 {
   "name": "cdeps",
   "version": "0.1.0",
-  "description": "Get module/project dependences recursively by entry file, support js and css.",
+  "description": "Get absolute dependences recursively by entry file, support js and css.",
   "main": "index",
   "dependencies": {
     "crequire": "~1.5.3",
