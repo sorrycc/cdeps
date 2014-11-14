@@ -1,0 +1,27 @@
+{
+  "name": "cdeps",
+  "version": "0.1.0",
+  "description": "Get module/project dependences recursively by entry file, support js and css.",
+  "main": "index",
+  "dependencies": {
+    "crequire": "~1.5.3",
+    "css-imports": "~0.3.1",
+    "debug": "~2.1.0"
+  },
+  "devDependencies": {
+    "istanbul": "0",
+    "coveralls": "2",
+    "mocha": "1",
+    "should": "3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorrycc/cdeps"
+  },
+  "homepage": "https://github.com/sorrycc/cdeps",
+  "author": "chencheng <sorrycc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  }
+}
